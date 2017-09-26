@@ -1,0 +1,22 @@
+{
+    "config": {
+        "chainid": 210917,
+        "homesteadBlock": 0,
+        "eip155Block": 0,
+        "eip158Block": 0,
+        "eip150Block": 0
+    },
+    "difficulty": "0x20000",
+    "gasLimit": "0x493E00",
+    "extraData": "0x4482647fad34",
+    "alloc": {
+        "0x30f23bc8c2e916a37df6bea420b01ea041f76b1e": {
+            "balance": "1000000000000000000000000"
+        },
+        "0x7316199a46435c831920fc9c6eb202b6fbd9e4cf": {
+            "balance": "1000000000000000000000000"
+        }
+    }
+}
+
+
